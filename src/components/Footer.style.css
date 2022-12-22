@@ -1,0 +1,27 @@
+.footer {
+    background-color: orange;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .footer-links {
+    display: flex;
+  }
+  
+  .footer-link {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 20px;
+  }
+  
+  .footer-link:hover {
+    color: #ccc;
+  }
+  
+  .footer-copyright {
+    margin: 0;
+  }
+  

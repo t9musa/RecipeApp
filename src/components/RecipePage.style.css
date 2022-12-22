@@ -1,0 +1,26 @@
+.heading {
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    flex-direction: column;
+}
+.mediumContainer {
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    flex-direction: row;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    flex-direction: column;
+  }
+  .descContainer {
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    flex-direction: column;
+    width: 250px;
+  }

@@ -1,0 +1,50 @@
+.about-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .about-title {
+    font-size: 32px;
+    margin: 0;
+  }
+  
+  .about-description {
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 20px 0;
+  }
+  
+  .about-subtitle {
+    font-size: 24px;
+    margin: 40px 0 20px;
+  }
+  
+  .about-team {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .about-team-member {
+    max-width: 300px;
+    text-align: center;
+  }
+  
+  .about-team-member-photo {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    margin-bottom: 20px;
+  }
+  
+  .about-team-member-name {
+    font-size: 18px;
+    margin: 0;
+  }
+  
+  .about-team-member-bio {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  

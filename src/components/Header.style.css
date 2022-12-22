@@ -1,0 +1,30 @@
+.header {
+  background-color: orange;
+  color: #fff;
+}
+
+.header-title {
+  font-size: 24px;
+  margin: 0;
+  padding: 20px;
+  padding-left: 120px
+}
+
+.header-buttons {
+  display: flex;
+  justify-content: space-around;
+  padding: 0 20px;
+}
+
+.header-button {
+  background-color: transparent;
+  border: none;
+  color: #fff;
+  font-size: 16px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.header-button:hover {
+  background-color: rgb(254, 207, 86);
+}
